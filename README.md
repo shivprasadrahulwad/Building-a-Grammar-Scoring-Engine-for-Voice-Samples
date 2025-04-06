@@ -23,11 +23,6 @@ The Grammar Scoring Engine transcribes spoken language from audio files, evaluat
 git clone https://github.com/shivprasadrahulwad/grammar-scoring-engine.git
 cd grammar-scoring-engine
 
-
-
-# Download additional resources
-python -m nltk.downloader punkt averaged_perceptron_tagger wordnet
-python -m spacy download en_core_web_sm
 ```
 
 ## Requirements
